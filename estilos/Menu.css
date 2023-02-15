@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+*{
+    background-color: rgb(214, 212, 212);
+}
+li{
+    text-decoration: none;
+    display: inline-block;
+    width: 320px;
+    height: 60px;
+    background-color: white;
+    text-align: left;
+    padding: 7px 1px 1px 7px;
+}
+section{
+    text-align: center;
+}
+li:hover{
+    margin: 1px 6px 6px 2px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.164);
+}
