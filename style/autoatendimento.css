@@ -2,6 +2,6 @@
 
 .bloco:hover{
     border: 2px solid rgba(245, 245, 245, 0.603);
-    transform: translate(-3px, -3px);
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.418);
+    transform: translate(-4px, -4px);
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.418);
     transition: transform 0.4s, border 0.4s}
