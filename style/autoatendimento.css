@@ -4,4 +4,5 @@
     border: 2px solid rgba(245, 245, 245, 0.603);
     transform: translate(-9px, -9px);
     box-shadow: 10px 10px 10px rgb(0, 0, 0);
-    transition: transform 0.4s, border 0.4s}
+    transition: transform 0.4s, border 0.4s;
+    border-radius: 10px;}
